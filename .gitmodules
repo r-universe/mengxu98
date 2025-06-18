@@ -5,3 +5,6 @@
 [submodule "inferCSN"]
 	path = inferCSN
 	url = https://github.com/mengxu98/infercsn
+[submodule "thisutils"]
+	path = thisutils
+	url = https://github.com/mengxu98/thisutils
