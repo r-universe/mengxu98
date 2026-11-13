@@ -4,5 +4,11 @@
     "url": "https://github.com/mengxu98/thisutils",
     "via": ["inferCSN"],
     "from": "inferCSN"
+  },
+  {
+    "package": "thisutils",
+    "url": "https://github.com/mengxu98/thisutils",
+    "via": ["thisplot"],
+    "from": "thisplot"
   }
 ]
